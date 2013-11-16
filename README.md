@@ -1,4 +1,4 @@
-# Nmap::Rest
+# Nmap::REST
 
 TODO: Write a gem description
 

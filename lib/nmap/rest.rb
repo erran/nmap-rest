@@ -1,7 +1,7 @@
-require "nmap/rest/version"
+require 'nmap/rest/version'
 
 module Nmap
-  module Rest
+  module REST
     # Your code goes here...
   end
 end
